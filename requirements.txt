@@ -47,6 +47,7 @@ bqplot
 # 経済学のためのPython入門
 japanize-matplotlib-jlite
 jupyterlab-open-url-parameter
+jupyterlab-filesystem-access
 gapminder
 lmdiag
 pandas-datareader
