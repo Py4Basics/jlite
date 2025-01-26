@@ -11,7 +11,7 @@ jupyterlite-pyodide-kernel==0.5.0
 jupyterlite-javascript-kernel==0.3.0
 
 # Language support (optional)
-jupyterlab-language-pack-fr-FR
+jupyterlab-language-pack-ja-JP
 jupyterlab-language-pack-zh-CN
 
 # P5 kernel (optional)
@@ -43,3 +43,14 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+# 経済学のためのPython入門
+japanize-matplotlib-jlite
+jupyterlab-open-url-parameter
+gapminder
+lmdiag
+pandas-datareader
+py4macro
+py4etrics
+pyodide-http
+wooldridge
